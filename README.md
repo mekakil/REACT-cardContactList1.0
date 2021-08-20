@@ -2,4 +2,4 @@
 A project of cards for contact list page or also can adapt to other purposes as well.
 
 
-https://github.com/mekakil/REACT-cardContactList1.0/blob/main/REACT-cardproject1.0.jpg
+![image](https://user-images.githubusercontent.com/77537787/130300424-b853cdc3-c72d-4792-b5d8-a158a92efe90.png)
